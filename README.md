@@ -26,9 +26,11 @@ Programmer: Fervi
 ## Donations
 
 Bitcoin: https://tippin.me/@fervi36341408
+
 Steem: @fervi
 
 ## Contact:
 
 Join to IntinteDAO Discord Channel: https://discord.gg/FEFkNpM
+
 Mastodon: @fervi@101010.pl
